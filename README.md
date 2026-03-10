@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Interested in game dev, open source and web dev. Computer science student at Indian Institute of Technology, Roorkee.
+
+
 <!--
 **hnemnane/hnemnane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
